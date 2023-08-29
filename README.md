@@ -1,7 +1,7 @@
 ## 👋 Hi there !
 
 
-- , My name is Johny.
+- 👦 My name is Johny.
 - 🇿🇦 I'm from South Africa.
 - 👀 I’m interested in Games development particullarly 2D.
 - 🌱 I’m currently learning Unity economy, generics, delegates, refactoring, sticking to the SRP an the open closed principle. 
